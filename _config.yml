@@ -1,11 +1,11 @@
 # Site settings
 author: Chelsea Hansen
-title: 
+title: Chels Codes
 header-img: img/home-bg.png
 email: chelseahansen@gmail.com
 copyright_name: Chelsea Hansen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Adventures in coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  chelseapaige
